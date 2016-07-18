@@ -17,18 +17,24 @@
         "resources": {
             "media": [
                 {
+                    "file": "images/asl_resized_image_2",
+                    "name": "SPARK_ICON_2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
                     "file": "images/asl_resized_mono.png",
                     "name": "SPARK_ICON",
                     "type": "png"
                 },
                 {
                     "file": "fonts/8-BIT WONDER.TTF",
-                    "name": "ATE_BIT_14",
+                    "name": "ATE_BIT_24",
                     "type": "font"
                 },
                 {
                     "file": "fonts/8-BIT WONDER.TTF",
-                    "name": "ATE_BIT_24",
+                    "name": "ATE_BIT_14",
                     "type": "font"
                 }
             ]
